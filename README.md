@@ -1,7 +1,7 @@
 ### Hi there, I'm Pavel Dvorniy 👋
 
 ### I'm a beginner Data Analyst
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+beginner+Data+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%000000&lines=I'm+a+beginner+Data+Analyst)](https://git.io/typing-svg)
 <br>
 
 ### Languages and Tools:
