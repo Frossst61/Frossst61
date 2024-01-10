@@ -5,7 +5,7 @@
 <br>
 
 ### Connect with me:
-<a href='https://t.me/pasha_frossst'><img align="left" alt="Python" width="36px" src="https://icons8.ru/icon/63306/телеграмма-app" />
+<a href='https://t.me/pasha_frossst'><img align="left" alt="Python" width="36px" src="https://icons8.com/icon/63306/telegram-app" />
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
