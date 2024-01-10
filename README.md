@@ -5,8 +5,7 @@
 <br>
 
 ### Connect with me:
-<a href='https://t.me/pasha_frossst'><img align="left" alt="Telegram" width="36px" src="https://www.flaticon.com/free-icon/telegram_2111644?term=telegram&page=1&position=4&origin=tag&related_id=2111644)
-" />
+<a href='https://t.me/pasha_frossst'><img align="left" alt="Telegram" width="36px" src="https://www.flaticon.com/free-icon/telegram_2111644?term=telegram&page=1&position=4&origin=tag&related_id=2111644" />
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
