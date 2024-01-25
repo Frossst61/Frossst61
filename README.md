@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pavel Dvorniy</h1>
-<h3 align="center">A Data Analyst and IT fan</h3>
+<h1>Hi 👋, I'm Pavel Dvorniy</h1>
+<h3>A Data Analyst and IT fan</h3>
 
 - 🔭 I’m currently working on **aviation industry**
 
@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://t.me/pasha_frossst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="pasha_frossst" height="30" width="40" /></a>
 <a href="https://instagram.com/pasha_frossst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pasha_frossst" height="30" width="40" /></a>
 </p>
 
