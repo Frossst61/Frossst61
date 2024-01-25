@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Pavel Dvorniy</h1>
+<h1>Hi there 👋, I'm Pavel Dvorniy</h1>
 <h3>A Data Analyst and IT fan</h3>
 
 - 🔭 I’m currently working on **aviation industry**
