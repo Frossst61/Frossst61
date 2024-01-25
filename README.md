@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/pasha_frossst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="pasha_frossst" height="30" width="40" /></a>
+<a href="https://t.me/pasha_frossst" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/telegram_5968804?term=telegram&page=1&position=4&origin=tag&related_id=5968804" alt="pasha_frossst" height="30" width="40" /></a>
 <a href="https://instagram.com/pasha_frossst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pasha_frossst" height="30" width="40" /></a>
 </p>
 
