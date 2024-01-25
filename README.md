@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **when we go to sea**
 
-- 📫 How to reach me **dvorniy.p@yandex.ru**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
